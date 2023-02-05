@@ -1,1 +1,1 @@
-Task 0
+How to be up to date in git
